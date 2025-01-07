@@ -1,0 +1,1 @@
+// Dosyayı tamamen sil

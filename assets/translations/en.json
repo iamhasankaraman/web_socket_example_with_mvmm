@@ -1,0 +1,82 @@
+{
+  "app": {
+    "title": "WebSocket Example"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "no_data": "No data available"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "register": "Register",
+    "forgotPassword": "Forgot Password?",
+    "email_required": "Email is required",
+    "password_required": "Password is required",
+    "invalid_credentials": "Invalid credentials"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark",
+    "select_language": "Select Language",
+    "select_theme": "Select Theme",
+    "theme_system": "System",
+    "theme_light": "Light",
+    "theme_dark": "Dark"
+  },
+  "home": {
+    "title": "Home",
+    "connectionStatus": "Connection Status",
+    "connected": "Connected",
+    "disconnected": "Disconnected",
+    "connecting": "Connecting...",
+    "type_message": "Type a message..."
+  },
+  "profile": {
+    "title": "Profile",
+    "edit": "Edit Profile",
+    "name": "Name",
+    "bio": "Bio",
+    "member_since": "Member since",
+    "last_seen": "Last seen"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "connection_stats": "Connection Statistics",
+    "performance_metrics": "Performance Metrics",
+    "total_messages": "Total Messages",
+    "sent_messages": "Sent Messages",
+    "received_messages": "Received Messages",
+    "reconnect_attempts": "Reconnect Attempts",
+    "total_uptime": "Total Uptime",
+    "avg_response_time": "Average Response Time",
+    "last_activity": "Last Activity",
+    "just_now": "Just now",
+    "minutes_ago": "{} minutes ago",
+    "hours_ago": "{} hours ago"
+  },
+  "chat": {
+    "rooms": "Chat Rooms",
+    "create_room": "Create Room",
+    "room_name": "Room Name",
+    "room_description": "Description",
+    "private_room": "Private Room",
+    "no_rooms": "No chat rooms available",
+    "name_required": "Please enter a room name",
+    "description_required": "Please enter a description"
+  }
+} 

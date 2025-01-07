@@ -1,0 +1,82 @@
+{
+  "app": {
+    "title": "WebSocket Örneği"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "retry": "Tekrar Dene",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "close": "Kapat",
+    "no_data": "Veri bulunamadı"
+  },
+  "auth": {
+    "login": "Giriş Yap",
+    "logout": "Çıkış Yap",
+    "email": "E-posta",
+    "password": "Şifre",
+    "register": "Kayıt Ol",
+    "forgotPassword": "Şifremi Unuttum?",
+    "email_required": "E-posta gerekli",
+    "password_required": "Şifre gerekli",
+    "invalid_credentials": "Geçersiz kimlik bilgileri"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "language": "Dil",
+    "theme": "Tema",
+    "system": "Sistem",
+    "light": "Aydınlık",
+    "dark": "Karanlık",
+    "select_language": "Dil Seçin",
+    "select_theme": "Tema Seçin",
+    "theme_system": "Sistem",
+    "theme_light": "Açık",
+    "theme_dark": "Koyu"
+  },
+  "home": {
+    "title": "Ana Sayfa",
+    "connectionStatus": "Bağlantı Durumu",
+    "connected": "Bağlı",
+    "disconnected": "Bağlantı Kesildi",
+    "connecting": "Bağlanıyor...",
+    "type_message": "Mesaj yazın..."
+  },
+  "profile": {
+    "title": "Profil",
+    "edit": "Profili Düzenle",
+    "name": "İsim",
+    "bio": "Hakkında",
+    "member_since": "Üyelik tarihi",
+    "last_seen": "Son görülme"
+  },
+  "analytics": {
+    "title": "Analitik",
+    "connection_stats": "Bağlantı İstatistikleri",
+    "performance_metrics": "Performans Metrikleri",
+    "total_messages": "Toplam Mesaj",
+    "sent_messages": "Gönderilen Mesaj",
+    "received_messages": "Alınan Mesaj",
+    "reconnect_attempts": "Yeniden Bağlanma Denemeleri",
+    "total_uptime": "Toplam Çalışma Süresi",
+    "avg_response_time": "Ortalama Yanıt Süresi",
+    "last_activity": "Son Aktivite",
+    "just_now": "Az önce",
+    "minutes_ago": "{} dakika önce",
+    "hours_ago": "{} saat önce"
+  },
+  "chat": {
+    "rooms": "Sohbet Odaları",
+    "create_room": "Oda Oluştur",
+    "room_name": "Oda Adı",
+    "room_description": "Açıklama",
+    "private_room": "Özel Oda",
+    "no_rooms": "Sohbet odası bulunamadı",
+    "name_required": "Lütfen bir oda adı girin",
+    "description_required": "Lütfen bir açıklama girin"
+  }
+} 
